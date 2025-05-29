@@ -22,7 +22,7 @@ To enable decentralized governance for any community or protocol by providing a 
 - Quorum and voting duration
 - Role-based permissions (e.g., proposer, voter)
 - Off-chain voting snapshots
-- Treasury integration for fund management
+- Treasury integration for fund management     
 
 ## 📜 Deployment Instructions
 
