@@ -26,7 +26,7 @@ To enable decentralized governance for any community or protocol by providing a 
 
 ## 📜 Deployment Instructions
 
-```bash
+```bash 
 npm install
 npx hardhat compile
 npx hardhat run scripts/deploy.js --network <your_network>
