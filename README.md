@@ -3,11 +3,11 @@
 ## 🧠 Project Description
 
 A basic DAO framework allowing members to create proposals, vote on them, and execute them based on majority consensus.
-
-## 🌍 Project Vision
+           
+## 🌍 Project Vision        
 
 To enable decentralized governance for any community or protocol by providing a minimal and extendable DAO foundation.
-
+            
 ## 🔑 Key Features
 
 - Member-based access control
