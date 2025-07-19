@@ -1,5 +1,5 @@
 # 🏛️ DAO Framework                       
-
+        
 ## 🧠 Project Description
 
 A basic DAO framework allowing members to create proposals, vote on them, and execute them based on majority consensus.
