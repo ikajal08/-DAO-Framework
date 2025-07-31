@@ -15,7 +15,7 @@ To enable decentralized governance for any community or protocol by providing a 
 - One-member-one-vote system
 - Execution based on majority voting
 - Admin role for adding members
-
+ 
 ## 🚀 Future Scope
 
 - Token-based voting
